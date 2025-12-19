@@ -1,6 +1,7 @@
 # Scoreboard for challenge-3
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 0xtrooper | 5 | 5 |
 | 4m4x | 5 | 5 |
 | ADEMOLA200 | 5 | 5 |
 | AkifhanIlgaz | 5 | 5 |
@@ -27,6 +28,7 @@
 | MiladJlz | 5 | 5 |
 | MuraliMohan-2000 | 5 | 5 |
 | PolinaSvet | 5 | 5 |
+| PsGov | 5 | 5 |
 | RezaSi | 5 | 5 |
 | Sahillather002 | 5 | 5 |
 | Sairaviteja27 | 5 | 5 |
