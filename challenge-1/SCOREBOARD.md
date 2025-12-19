@@ -37,6 +37,7 @@
 | KirthiInfra | 6 | 6 |
 | Kosench | 6 | 6 |
 | Linqi-Qin | 6 | 6 |
+| LouisChen-TW | 6 | 6 |
 | MYK12397 | 6 | 6 |
 | Maidomax | 6 | 6 |
 | Mamsheikh | 6 | 6 |
