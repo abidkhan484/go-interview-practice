@@ -45,6 +45,7 @@
 | aseifi880 | 5 | 5 |
 | ashwinipatankar | 5 | 5 |
 | awsl1110 | 5 | 5 |
+| azs0309 | 5 | 5 |
 | baindraraj | 5 | 5 |
 | berkaykrc | 5 | 5 |
 | berkkaradalan | 5 | 5 |
@@ -80,6 +81,7 @@
 | lanmanul | 5 | 5 |
 | lyb88999 | 5 | 5 |
 | macborowy | 5 | 5 |
+| maikreyes | 5 | 5 |
 | manish-npx | 5 | 5 |
 | mayconvm | 5 | 5 |
 | mczajk | 5 | 5 |
