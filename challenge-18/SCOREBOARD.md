@@ -1,6 +1,7 @@
 # Scoreboard for challenge-18
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| 0xtrooper | 23 | 23 |
 | 4592adarsh | 23 | 23 |
 | 4m4x | 23 | 23 |
 | AlexO-85 | 23 | 23 |
@@ -34,6 +35,7 @@
 | ansmonjol | 23 | 23 |
 | ashwinipatankar | 23 | 23 |
 | awsl1110 | 23 | 23 |
+| azs0309 | 23 | 23 |
 | berkaykrc | 23 | 23 |
 | berkkaradalan | 23 | 23 |
 | binoymanoj | 23 | 23 |
@@ -63,6 +65,7 @@
 | muhammedkucukaslan | 23 | 23 |
 | nzamulov | 23 | 23 |
 | odelbos | 23 | 23 |
+| pannawit2541 | 23 | 23 |
 | perekoshik | 23 | 23 |
 | preetsinghmakkar | 23 | 23 |
 | richcem | 23 | 23 |
