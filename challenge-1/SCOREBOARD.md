@@ -63,6 +63,7 @@
 | ZakirAvrora | 6 | 6 |
 | abhishek622 | 6 | 6 |
 | adi041518 | 6 | 6 |
+| affandisy | 6 | 6 |
 | agusu | 6 | 6 |
 | anotnow | 6 | 6 |
 | ansmonjol | 6 | 6 |
