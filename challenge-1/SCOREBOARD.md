@@ -114,6 +114,7 @@
 | joaovitoralvares | 6 | 6 |
 | john-otienoh | 6 | 6 |
 | jordanhimawan | 6 | 6 |
+| jrab66 | 6 | 6 |
 | jvllmr | 6 | 6 |
 | k4sper1love | 6 | 6 |
 | kiramux | 6 | 6 |
@@ -149,6 +150,7 @@
 | nzamulov | 6 | 6 |
 | odelbos | 6 | 6 |
 | onenewcode | 6 | 6 |
+| pannawit2541 | 6 | 6 |
 | perekoshik | 6 | 6 |
 | potapkin-pavel | 6 | 6 |
 | preetsinghmakkar | 6 | 6 |
