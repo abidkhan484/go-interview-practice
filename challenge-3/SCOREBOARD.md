@@ -40,6 +40,7 @@
 | YounesBouchbouk | 5 | 5 |
 | Z4za01 | 5 | 5 |
 | ZaharBorisenko | 5 | 5 |
+| affandisy | 5 | 5 |
 | ahmedpyarali2 | 5 | 5 |
 | anotnow | 5 | 5 |
 | ansmonjol | 5 | 5 |
