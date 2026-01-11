@@ -32,6 +32,7 @@
 | Yaska1706 | 23 | 23 |
 | YounesBouchbouk | 23 | 23 |
 | ZaharBorisenko | 23 | 23 |
+| affandisy | 23 | 23 |
 | ansmonjol | 23 | 23 |
 | ashwinipatankar | 23 | 23 |
 | awsl1110 | 23 | 23 |
