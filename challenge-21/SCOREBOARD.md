@@ -22,6 +22,7 @@
 | PolinaSvet | 35 | 35 |
 | RezaSi | 35 | 35 |
 | ZaharBorisenko | 35 | 35 |
+| affandisy | 35 | 35 |
 | akolpakov-somehash | 35 | 35 |
 | awsl1110 | 35 | 35 |
 | azs0309 | 35 | 35 |
