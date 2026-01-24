@@ -51,6 +51,7 @@
 | igorek890 | 7 | 7 |
 | inok94 | 7 | 7 |
 | jasonnfeng | 7 | 7 |
+| jeffreyyjp | 7 | 7 |
 | jersonzc | 7 | 7 |
 | john-otienoh | 7 | 7 |
 | jordanhimawan | 7 | 7 |
