@@ -27,7 +27,9 @@ Welcome to the **Go Interview Practice** repository! Master Go programming and a
 </p>
 </a>
 
-Our interactive platform is now live at **[app.gointerview.dev](https://app.gointerview.dev/)** 🎉 Explore challenges, track your progress, and elevate your Go skills with AI-powered mentorship.
+**Go Interview Practice is now part of [ProdPath](https://prodpath.dev)** — the complete platform for becoming a production-ready developer with Cloud Labs, System Design, and AI mentorship.
+
+Our interactive platform is live at **[app.gointerview.dev](https://app.gointerview.dev/)** 🎉 Explore challenges, track your progress, and elevate your Go skills with AI-powered mentorship.
 
 <div align="center">
   <a href="https://app.gointerview.dev/" target="_blank">
