@@ -21,6 +21,12 @@
 
 Welcome to the **Go Interview Practice** repository! Master Go programming and ace your technical interviews with our interactive coding challenges.
 
+<a href="https://prodpath.dev" target="_blank">
+          <p align="center">
+  <img src="images/prodpath-banner.png" alt="Go Interview Practice Banner" width="100%">
+</p>
+</a>
+
 Our interactive platform is now live at **[app.gointerview.dev](https://app.gointerview.dev/)** 🎉 Explore challenges, track your progress, and elevate your Go skills with AI-powered mentorship.
 
 <div align="center">
