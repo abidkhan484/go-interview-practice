@@ -196,6 +196,7 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | Rank | Developer | Completed | Progress |
 |:---:|:---:|:---:|:---|
 | 🥇 | **[RezaSi](https://github.com/RezaSi)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| 🥈 | **[Onkar-25](https://github.com/Onkar-25)** | 1/5 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
 
 ### 📊 Package Challenge Statistics
 
