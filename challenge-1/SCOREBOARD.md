@@ -21,6 +21,7 @@
 | DaniilYuz | 6 | 6 |
 | Dhar01 | 6 | 6 |
 | EmersonRabelo | 6 | 6 |
+| ForgottenGrom | 6 | 6 |
 | Gandook | 6 | 6 |
 | GinVlad | 6 | 6 |
 | Hikitak | 6 | 6 |
@@ -91,6 +92,7 @@
 | chenyao0910 | 6 | 6 |
 | decko | 6 | 6 |
 | deloz | 6 | 6 |
+| dgatla | 6 | 6 |
 | dhevv8 | 6 | 6 |
 | diyorich | 6 | 6 |
 | duplabe | 6 | 6 |
@@ -129,6 +131,7 @@
 | korranat9 | 6 | 6 |
 | krmaxwell | 6 | 6 |
 | krypton-io | 6 | 6 |
+| kudesn1k1 | 6 | 6 |
 | kuzminprog | 6 | 6 |
 | labib99 | 6 | 6 |
 | lajosbnk | 6 | 6 |
