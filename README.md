@@ -137,9 +137,9 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | 5 | <img src="https://github.com/father-frog.png" width="24" height="24" style="border-radius: 50%;"><br/>**[father-frog](https://github.com/father-frog)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
 | 6 | <img src="https://github.com/q1ngy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[q1ngy](https://github.com/q1ngy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
 | 7 | <img src="https://github.com/BrianHuang813.png" width="24" height="24" style="border-radius: 50%;"><br/>**[BrianHuang813](https://github.com/BrianHuang813)** | **3** | **1** pkg | 🚀 Package Intermediate | **gin**: 3 |
-| 8 | <img src="https://github.com/Kinsue.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Kinsue](https://github.com/Kinsue)** | **3** | **2** pkgs | 🚀 Package Intermediate | **gin**: 2 • **gorm**: 1 |
-| 9 | <img src="https://github.com/ashwinipatankar.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ashwinipatankar](https://github.com/ashwinipatankar)** ❤️ | **3** | **1** pkg | 🚀 Package Intermediate | **cobra**: 3 |
-| 10 | <img src="https://github.com/aswinsreeraj.png" width="24" height="24" style="border-radius: 50%;"><br/>**[aswinsreeraj](https://github.com/aswinsreeraj)** | **3** | **1** pkg | 🚀 Package Intermediate | **gorm**: 3 |
+| 8 | <img src="https://github.com/ashwinipatankar.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ashwinipatankar](https://github.com/ashwinipatankar)** ❤️ | **3** | **1** pkg | 🚀 Package Intermediate | **cobra**: 3 |
+| 9 | <img src="https://github.com/aswinsreeraj.png" width="24" height="24" style="border-radius: 50%;"><br/>**[aswinsreeraj](https://github.com/aswinsreeraj)** | **3** | **1** pkg | 🚀 Package Intermediate | **gorm**: 3 |
+| 10 | <img src="https://github.com/Kinsue.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Kinsue](https://github.com/Kinsue)** | **2** | **2** pkgs | 🌱 Package Beginner | **gin**: 1 • **gorm**: 1 |
 
 <div align="center">
 
