@@ -4,20 +4,20 @@
 *Click any badge to visit the Go Interview Practice repository!*
 
 <!-- Full-size Card Badge - Clickable -->
-[![Go Interview Practice Achievement Card](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/Kinsue.svg)](https://github.com/RezaSi/go-interview-practice)
+[![Go Interview Practice Achievement Card](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/shansing.svg)](https://github.com/RezaSi/go-interview-practice)
 
 <!-- Compact Horizontal Badge - Clickable -->
-[![Go Interview Practice Compact](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/Kinsue_compact.svg)](https://github.com/RezaSi/go-interview-practice)
+[![Go Interview Practice Compact](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/shansing_compact.svg)](https://github.com/RezaSi/go-interview-practice)
 
 ### 🔄 Dynamic Shields.io Badge
 <!-- Dynamic Badge (auto-updates) -->
-[![Go Interview Practice](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/Kinsue.json&style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
+[![Go Interview Practice](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/shansing.json&style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 
 ### 📊 Static Badges Collection
 [![Challenges Solved](https://img.shields.io/badge/Go_Challenges-0%2F30-brightgreen?style=for-the-badge&logo=go&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 [![Achievement Level](https://img.shields.io/badge/Level-🌱_Beginner-97ca00?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 [![Completion Rate](https://img.shields.io/badge/Completion-0.0%25-97ca00?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
-[![Package Challenges](https://img.shields.io/badge/Package_Challenges-3_across_2_packages-purple?style=for-the-badge&logo=package&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
+[![Package Challenges](https://img.shields.io/badge/Package_Challenges-1_across_1_packages-purple?style=for-the-badge&logo=package&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
 
 ### 🔗 Repository Link Badge
 [![Go Interview Practice Repository](https://img.shields.io/badge/View_Repository-Go_Interview_Practice-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RezaSi/go-interview-practice)
@@ -26,8 +26,8 @@
 
 ### 📈 Your Achievement Summary
 
-**👤 Username:** @Kinsue  
+**👤 Username:** @shansing  
 **🏅 Achievement Level:** 🌱 **Beginner Developer**  
 **📊 Classic Challenges:** 0/30 (0.0% complete)  
 **🔗 Repository:** [Go Interview Practice](https://github.com/RezaSi/go-interview-practice)  
-**Package Challenges:** 3 across 2 packages
+**Package Challenges:** 1 across 1 packages
