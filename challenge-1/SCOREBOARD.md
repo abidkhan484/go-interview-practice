@@ -20,6 +20,7 @@
 | Cpoing | 6 | 6 |
 | DaniilYuz | 6 | 6 |
 | Dhar01 | 6 | 6 |
+| EmersonRabelo | 6 | 6 |
 | Gandook | 6 | 6 |
 | GinVlad | 6 | 6 |
 | Hikitak | 6 | 6 |
@@ -136,6 +137,7 @@
 | lesiona-z | 6 | 6 |
 | levwap | 6 | 6 |
 | liquiid727 | 6 | 6 |
+| llopp1994 | 6 | 6 |
 | lostzoo | 6 | 6 |
 | lyb88999 | 6 | 6 |
 | macborowy | 6 | 6 |
