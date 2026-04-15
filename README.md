@@ -133,13 +133,13 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | 🥇 | <img src="https://github.com/odelbos.png" width="24" height="24" style="border-radius: 50%;"><br/>**[odelbos](https://github.com/odelbos)** | **17** | **4** pkgs | 🔥 Package Master | **cobra**: 4 • **fiber**: 4 • **gin**: 4 • **gorm**: 5 |
 | 🥈 | <img src="https://github.com/PolinaSvet.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PolinaSvet](https://github.com/PolinaSvet)** | **8** | **2** pkgs | 💪 Package Advanced | **cobra**: 4 • **gin**: 4 |
 | 🥉 | <img src="https://github.com/RezaSi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[RezaSi](https://github.com/RezaSi)** | **7** | **6** pkgs | 💪 Package Advanced | **cobra**: 1 • **echo**: 1 • **fiber**: 1 • **gin**: 1 • **gorm**: 1 • **mongodb**: 2 |
-| 4 | <img src="https://github.com/22-7-co.png" width="24" height="24" style="border-radius: 50%;"><br/>**[22-7-co](https://github.com/22-7-co)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
-| 5 | <img src="https://github.com/father-frog.png" width="24" height="24" style="border-radius: 50%;"><br/>**[father-frog](https://github.com/father-frog)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
-| 6 | <img src="https://github.com/q1ngy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[q1ngy](https://github.com/q1ngy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
-| 7 | <img src="https://github.com/BrianHuang813.png" width="24" height="24" style="border-radius: 50%;"><br/>**[BrianHuang813](https://github.com/BrianHuang813)** | **3** | **1** pkg | 🚀 Package Intermediate | **gin**: 3 |
-| 8 | <img src="https://github.com/Kinsue.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Kinsue](https://github.com/Kinsue)** | **3** | **2** pkgs | 🚀 Package Intermediate | **gin**: 2 • **gorm**: 1 |
-| 9 | <img src="https://github.com/ashwinipatankar.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ashwinipatankar](https://github.com/ashwinipatankar)** ❤️ | **3** | **1** pkg | 🚀 Package Intermediate | **cobra**: 3 |
-| 10 | <img src="https://github.com/aswinsreeraj.png" width="24" height="24" style="border-radius: 50%;"><br/>**[aswinsreeraj](https://github.com/aswinsreeraj)** | **3** | **1** pkg | 🚀 Package Intermediate | **gorm**: 3 |
+| 4 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **6** | **2** pkgs | 💪 Package Advanced | **gin**: 3 • **gorm**: 3 |
+| 5 | <img src="https://github.com/22-7-co.png" width="24" height="24" style="border-radius: 50%;"><br/>**[22-7-co](https://github.com/22-7-co)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
+| 6 | <img src="https://github.com/Mxn-ptr.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Mxn-ptr](https://github.com/Mxn-ptr)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
+| 7 | <img src="https://github.com/Onkar-25.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Onkar-25](https://github.com/Onkar-25)** | **5** | **3** pkgs | 💪 Package Advanced | **gin**: 2 • **gorm**: 2 • **mongodb**: 1 |
+| 8 | <img src="https://github.com/ItalloMangueBoy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
+| 9 | <img src="https://github.com/father-frog.png" width="24" height="24" style="border-radius: 50%;"><br/>**[father-frog](https://github.com/father-frog)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
+| 10 | <img src="https://github.com/q1ngy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[q1ngy](https://github.com/q1ngy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
 
 <div align="center">
 
@@ -169,17 +169,18 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | Rank | Developer | Completed | Progress |
 |:---:|:---:|:---:|:---|
 | 🥇 | **[odelbos](https://github.com/odelbos)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 🥈 | **[RezaSi](https://github.com/RezaSi)** | 1/4 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 25% |
+| 🥈 | **[0xSangeet](https://github.com/0xSangeet)** | 1/4 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 25% |
+| 🥉 | **[RezaSi](https://github.com/RezaSi)** | 1/4 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 25% |
 
 #### Gin Package
 
 | Rank | Developer | Completed | Progress |
 |:---:|:---:|:---:|:---|
 | 🥇 | **[22-7-co](https://github.com/22-7-co)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 🥈 | **[PolinaSvet](https://github.com/PolinaSvet)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 🥉 | **[father-frog](https://github.com/father-frog)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 4 | **[odelbos](https://github.com/odelbos)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 5 | **[q1ngy](https://github.com/q1ngy)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 🥈 | **[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 🥉 | **[Mxn-ptr](https://github.com/Mxn-ptr)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 4 | **[PolinaSvet](https://github.com/PolinaSvet)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 5 | **[father-frog](https://github.com/father-frog)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 
 #### Gorm Package
 
@@ -187,9 +188,9 @@ Master Go packages through hands-on challenges! Each package offers a structured
 |:---:|:---:|:---:|:---|
 | 🥇 | **[odelbos](https://github.com/odelbos)** | 5/5 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 🥈 | **[aswinsreeraj](https://github.com/aswinsreeraj)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
-| 🥉 | **[grozdovk](https://github.com/grozdovk)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
-| 4 | **[22-7-co](https://github.com/22-7-co)** | 1/5 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
-| 5 | **[Kinsue](https://github.com/Kinsue)** | 1/5 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
+| 🥉 | **[imankhodadi](https://github.com/imankhodadi)** | 3/5 | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60% |
+| 4 | **[Onkar-25](https://github.com/Onkar-25)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
+| 5 | **[grozdovk](https://github.com/grozdovk)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
 
 #### Mongodb Package
 
@@ -197,11 +198,12 @@ Master Go packages through hands-on challenges! Each package offers a structured
 |:---:|:---:|:---:|:---|
 | 🥇 | **[RezaSi](https://github.com/RezaSi)** | 2/5 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 40% |
 | 🥈 | **[Onkar-25](https://github.com/Onkar-25)** | 1/5 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
+| 🥉 | **[maket12](https://github.com/maket12)** | 1/5 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
 
 ### 📊 Package Challenge Statistics
 
 - **Total Package Challenges Available**: 26
-- **Active Package Learners**: 35
+- **Active Package Learners**: 46
 - **Available Packages**: 6 (cobra, echo, fiber, gin, gorm, mongodb)
 
 - **Most Package Challenges Solved**: 17 by odelbos
