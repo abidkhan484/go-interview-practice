@@ -104,6 +104,7 @@
 | chenyao0910 | 7 | 7 |
 | clgp-aint-cool | 7 | 7 |
 | conorbln | 7 | 7 |
+| czysiaczek | 7 | 7 |
 | danielxfeng | 7 | 7 |
 | decko | 7 | 7 |
 | deloz | 7 | 7 |
@@ -168,6 +169,7 @@
 | mks-nerd | 7 | 7 |
 | mmzykin | 7 | 7 |
 | muhammedkucukaslan | 7 | 7 |
+| mvsouza | 7 | 7 |
 | naghinezhad | 7 | 7 |
 | nasseredine | 7 | 7 |
 | ne0phyte | 7 | 7 |
