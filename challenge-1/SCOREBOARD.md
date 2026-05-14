@@ -70,6 +70,7 @@
 | Sairaviteja27 | 6 | 6 |
 | SemenTretyakov | 6 | 6 |
 | Seokky | 6 | 6 |
+| Shalu-Kushwaha | 6 | 6 |
 | Spiridonov-KA | 6 | 6 |
 | Stevo-S | 6 | 6 |
 | TOomaAh | 6 | 6 |
