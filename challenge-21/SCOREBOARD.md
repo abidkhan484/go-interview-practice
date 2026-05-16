@@ -89,6 +89,7 @@
 | xyersh | 35 | 35 |
 | y1hao | 35 | 35 |
 | yz4230 | 35 | 35 |
+| zero-shubham | 35 | 35 |
 | zylbeyondlimits | 35 | 35 |
 | ashwinipatankar | 33 | 35 |
 | VFarsiyants | 24 | 26 |
