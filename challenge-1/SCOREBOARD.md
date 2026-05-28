@@ -32,6 +32,7 @@
 | ForgottenGrom | 6 | 6 |
 | Gandook | 6 | 6 |
 | GinVlad | 6 | 6 |
+| GreenDude5 | 6 | 6 |
 | Hikitak | 6 | 6 |
 | Huansock | 6 | 6 |
 | IBraveMonkey | 6 | 6 |
