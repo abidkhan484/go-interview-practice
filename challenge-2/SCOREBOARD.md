@@ -22,6 +22,7 @@
 | Cpoing | 7 | 7 |
 | DEEZY4U | 7 | 7 |
 | DaniilYuz | 7 | 7 |
+| DigvijayWagh22 | 7 | 7 |
 | Divyamsirswal | 7 | 7 |
 | Falasefemi2 | 7 | 7 |
 | FlynntDev | 7 | 7 |

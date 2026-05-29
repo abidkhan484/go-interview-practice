@@ -25,6 +25,7 @@
 | DEEZY4U | 6 | 6 |
 | DaniilYuz | 6 | 6 |
 | Dhar01 | 6 | 6 |
+| DigvijayWagh22 | 6 | 6 |
 | Divyamsirswal | 6 | 6 |
 | EmersonRabelo | 6 | 6 |
 | FACELESS-GOD | 6 | 6 |
