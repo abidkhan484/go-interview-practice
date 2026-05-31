@@ -211,6 +211,7 @@
 | naghinezhad | 6 | 6 |
 | nasseredine | 6 | 6 |
 | ne0phyte | 6 | 6 |
+| nika-kichatkina | 6 | 6 |
 | nima-abdpoor | 6 | 6 |
 | nosrio | 6 | 6 |
 | nzamulov | 6 | 6 |
