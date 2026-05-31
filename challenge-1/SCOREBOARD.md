@@ -139,6 +139,7 @@
 | flaviogf | 6 | 6 |
 | fleimkeipa | 6 | 6 |
 | foreverosemary | 6 | 6 |
+| foyez | 6 | 6 |
 | fzzv | 6 | 6 |
 | gaba-bouliva | 6 | 6 |
 | globallstudent | 6 | 6 |
