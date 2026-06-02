@@ -10,6 +10,7 @@
 | Gandook | 9 | 9 |
 | HeimaoLST | 9 | 9 |
 | Hikitak | 9 | 9 |
+| ImHotDog | 9 | 9 |
 | JackDalberg | 9 | 9 |
 | Johrespi | 9 | 9 |
 | Kosench | 9 | 9 |
