@@ -151,6 +151,7 @@
 | john-otienoh | 7 | 7 |
 | jordanhimawan | 7 | 7 |
 | jrbarbati | 7 | 7 |
+| kentrussel-dev | 7 | 7 |
 | kiramux | 7 | 7 |
 | koki1610168 | 7 | 7 |
 | korranat9 | 7 | 7 |
