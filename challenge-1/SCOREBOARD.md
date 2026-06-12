@@ -71,6 +71,7 @@
 | RP-Guruh | 6 | 6 |
 | RezaSi | 6 | 6 |
 | Rpqshka | 6 | 6 |
+| Rudii1 | 6 | 6 |
 | Sahillather002 | 6 | 6 |
 | Sairaviteja27 | 6 | 6 |
 | SemenTretyakov | 6 | 6 |
