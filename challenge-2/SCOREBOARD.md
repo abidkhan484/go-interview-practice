@@ -129,6 +129,7 @@
 | muhammedkucukaslan | 8 | 8 |
 | mvsouza | 8 | 8 |
 | naghinezhad | 8 | 8 |
+| nazrawigedion123 | 8 | 8 |
 | ne0phyte | 8 | 8 |
 | nzamulov | 8 | 8 |
 | okzhp | 8 | 8 |
