@@ -97,9 +97,9 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 | 🏅 | Developer | Solved | Rate | Achievement | Progress |
 |:---:|:---:|:---:|:---:|:---:|:---|
 | 🥇 | <img src="https://github.com/PolinaSvet.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PolinaSvet](https://github.com/PolinaSvet)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 🥈 | <img src="https://github.com/mvsouza.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mvsouza](https://github.com/mvsouza)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 🥉 | <img src="https://github.com/nzamulov.png" width="24" height="24" style="border-radius: 50%;"><br/>**[nzamulov](https://github.com/nzamulov)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
-| 4 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **29**/30 | **96.7%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅⬜<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 🥈 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 🥉 | <img src="https://github.com/mvsouza.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mvsouza](https://github.com/mvsouza)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
+| 4 | <img src="https://github.com/nzamulov.png" width="24" height="24" style="border-radius: 50%;"><br/>**[nzamulov](https://github.com/nzamulov)** | **30**/30 | **100.0%** | Master | ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
 | 5 | <img src="https://github.com/odelbos.png" width="24" height="24" style="border-radius: 50%;"><br/>**[odelbos](https://github.com/odelbos)** | **29**/30 | **96.7%** | Master | ✅⬜✅✅✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅ |
 | 6 | <img src="https://github.com/mick4711.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mick4711](https://github.com/mick4711)** | **23**/30 | **76.7%** | Master | ✅✅✅✅✅✅✅✅✅✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅⬜⬜✅✅⬜⬜✅ |
 | 7 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **22**/30 | **73.3%** | Master | ✅✅✅✅✅✅✅⬜⬜✅✅⬜✅⬜✅<br/>✅✅✅✅✅✅✅⬜✅✅⬜✅⬜⬜✅ |
@@ -140,8 +140,8 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | 6 | <img src="https://github.com/Mxn-ptr.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Mxn-ptr](https://github.com/Mxn-ptr)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
 | 7 | <img src="https://github.com/Onkar-25.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Onkar-25](https://github.com/Onkar-25)** | **5** | **3** pkgs | 💪 Package Advanced | **gin**: 2 • **gorm**: 2 • **mongodb**: 1 |
 | 8 | <img src="https://github.com/ItalloMangueBoy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
-| 9 | <img src="https://github.com/father-frog.png" width="24" height="24" style="border-radius: 50%;"><br/>**[father-frog](https://github.com/father-frog)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
-| 10 | <img src="https://github.com/q1ngy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[q1ngy](https://github.com/q1ngy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
+| 9 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **4** | **2** pkgs | 🚀 Package Intermediate | **cobra**: 3 • **gin**: 1 |
+| 10 | <img src="https://github.com/father-frog.png" width="24" height="24" style="border-radius: 50%;"><br/>**[father-frog](https://github.com/father-frog)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
 
 <div align="center">
 
