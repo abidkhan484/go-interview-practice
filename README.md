@@ -139,8 +139,8 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | 5 | <img src="https://github.com/22-7-co.png" width="24" height="24" style="border-radius: 50%;"><br/>**[22-7-co](https://github.com/22-7-co)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
 | 6 | <img src="https://github.com/Mxn-ptr.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Mxn-ptr](https://github.com/Mxn-ptr)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
 | 7 | <img src="https://github.com/Onkar-25.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Onkar-25](https://github.com/Onkar-25)** | **5** | **3** pkgs | 💪 Package Advanced | **gin**: 2 • **gorm**: 2 • **mongodb**: 1 |
-| 8 | <img src="https://github.com/ItalloMangueBoy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
-| 9 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **4** | **2** pkgs | 🚀 Package Intermediate | **cobra**: 3 • **gin**: 1 |
+| 8 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **5** | **2** pkgs | 💪 Package Advanced | **cobra**: 3 • **gin**: 2 |
+| 9 | <img src="https://github.com/ItalloMangueBoy.png" width="24" height="24" style="border-radius: 50%;"><br/>**[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
 | 10 | <img src="https://github.com/father-frog.png" width="24" height="24" style="border-radius: 50%;"><br/>**[father-frog](https://github.com/father-frog)** | **4** | **1** pkg | 🚀 Package Intermediate | **gin**: 4 |
 
 <div align="center">
