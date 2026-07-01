@@ -111,6 +111,7 @@
 | john-otienoh | 8 | 8 |
 | jordanhimawan | 8 | 8 |
 | kentrussel-dev | 8 | 8 |
+| khalifahnur | 8 | 8 |
 | koki1610168 | 8 | 8 |
 | korranat9 | 8 | 8 |
 | krmaxwell | 8 | 8 |
