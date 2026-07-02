@@ -134,9 +134,9 @@ Master Go packages through hands-on challenges! Each package offers a structured
 |:---:|:---:|:---:|:---:|:---:|:---|
 | 🥇 | <img src="https://github.com/odelbos.png" width="24" height="24" style="border-radius: 50%;"><br/>**[odelbos](https://github.com/odelbos)** | **17** | **4** pkgs | 🔥 Package Master | **cobra**: 4 • **fiber**: 4 • **gin**: 4 • **gorm**: 5 |
 | 🥈 | <img src="https://github.com/PolinaSvet.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PolinaSvet](https://github.com/PolinaSvet)** | **8** | **2** pkgs | 💪 Package Advanced | **cobra**: 4 • **gin**: 4 |
-| 🥉 | <img src="https://github.com/RezaSi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[RezaSi](https://github.com/RezaSi)** | **7** | **6** pkgs | 💪 Package Advanced | **cobra**: 1 • **echo**: 1 • **fiber**: 1 • **gin**: 1 • **gorm**: 1 • **mongodb**: 2 |
-| 4 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **7** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 3 |
-| 5 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **6** | **2** pkgs | 💪 Package Advanced | **cobra**: 3 • **gin**: 3 |
+| 🥉 | <img src="https://github.com/PopovMarko.png" width="24" height="24" style="border-radius: 50%;"><br/>**[PopovMarko](https://github.com/PopovMarko)** | **7** | **2** pkgs | 💪 Package Advanced | **cobra**: 3 • **gin**: 4 |
+| 4 | <img src="https://github.com/RezaSi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[RezaSi](https://github.com/RezaSi)** | **7** | **6** pkgs | 💪 Package Advanced | **cobra**: 1 • **echo**: 1 • **fiber**: 1 • **gin**: 1 • **gorm**: 1 • **mongodb**: 2 |
+| 5 | <img src="https://github.com/imankhodadi.png" width="24" height="24" style="border-radius: 50%;"><br/>**[imankhodadi](https://github.com/imankhodadi)** | **7** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 3 |
 | 6 | <img src="https://github.com/22-7-co.png" width="24" height="24" style="border-radius: 50%;"><br/>**[22-7-co](https://github.com/22-7-co)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
 | 7 | <img src="https://github.com/Mxn-ptr.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Mxn-ptr](https://github.com/Mxn-ptr)** | **5** | **2** pkgs | 💪 Package Advanced | **gin**: 4 • **gorm**: 1 |
 | 8 | <img src="https://github.com/Onkar-25.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Onkar-25](https://github.com/Onkar-25)** | **5** | **3** pkgs | 💪 Package Advanced | **gin**: 2 • **gorm**: 2 • **mongodb**: 1 |
@@ -183,7 +183,7 @@ Master Go packages through hands-on challenges! Each package offers a structured
 | 🥈 | **[ItalloMangueBoy](https://github.com/ItalloMangueBoy)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 🥉 | **[Mxn-ptr](https://github.com/Mxn-ptr)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 | 4 | **[PolinaSvet](https://github.com/PolinaSvet)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
-| 5 | **[father-frog](https://github.com/father-frog)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
+| 5 | **[PopovMarko](https://github.com/PopovMarko)** | 4/4 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% |
 
 #### Gorm Package
 
