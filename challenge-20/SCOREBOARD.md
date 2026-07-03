@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | JackDalberg | 13 | 13 |
+| Kosench | 13 | 13 |
 | Onkar-25 | 13 | 13 |
 | PolinaSvet | 13 | 13 |
 | PopovMarko | 13 | 13 |
