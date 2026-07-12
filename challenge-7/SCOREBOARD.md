@@ -40,6 +40,7 @@
 | nosrio | 25 | 25 |
 | nzamulov | 25 | 25 |
 | odelbos | 25 | 25 |
+| onomica | 25 | 25 |
 | shahzodshafizod | 25 | 25 |
 | shansing | 25 | 25 |
 | t4e1 | 25 | 25 |
