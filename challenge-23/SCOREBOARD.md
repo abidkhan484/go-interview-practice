@@ -6,6 +6,7 @@
 | Gandook | 36 | 36 |
 | Hikitak | 36 | 36 |
 | JackDalberg | 36 | 36 |
+| JoQCorreia | 36 | 36 |
 | KhaledMosaad | 36 | 36 |
 | PolinaSvet | 36 | 36 |
 | PopovMarko | 36 | 36 |
