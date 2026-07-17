@@ -9,6 +9,7 @@
 | Kosench | 7 | 7 |
 | PolinaSvet | 7 | 7 |
 | PopovMarko | 7 | 7 |
+| aruncs | 7 | 7 |
 | brenoamin | 7 | 7 |
 | imankhodadi | 7 | 7 |
 | jersonzc | 7 | 7 |
