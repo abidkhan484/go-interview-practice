@@ -131,6 +131,7 @@
 | chandimab | 6 | 6 |
 | chenyao0910 | 6 | 6 |
 | clgp-aint-cool | 6 | 6 |
+| d-madiou | 6 | 6 |
 | danielxfeng | 6 | 6 |
 | decko | 6 | 6 |
 | deloz | 6 | 6 |
