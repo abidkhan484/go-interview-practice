@@ -21,6 +21,7 @@
 | Ashutosh652 | 6 | 6 |
 | Be1chenok | 6 | 6 |
 | BrianHuang813 | 6 | 6 |
+| CV-Elevation | 6 | 6 |
 | Cpoing | 6 | 6 |
 | DEEZY4U | 6 | 6 |
 | DaniilYuz | 6 | 6 |
