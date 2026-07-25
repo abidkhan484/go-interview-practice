@@ -138,6 +138,7 @@
 | danielxfeng | 6 | 6 |
 | decko | 6 | 6 |
 | deloz | 6 | 6 |
+| deltron-fr | 6 | 6 |
 | dgatla | 6 | 6 |
 | dhevv8 | 6 | 6 |
 | diyorich | 6 | 6 |
