@@ -14,6 +14,7 @@
 | Johrespi | 13 | 13 |
 | Kinsue | 13 | 13 |
 | Kosench | 13 | 13 |
+| Kriss-Kolak | 13 | 13 |
 | MarioPaez | 13 | 13 |
 | Mxn-ptr | 13 | 13 |
 | Onkar-25 | 13 | 13 |
