@@ -49,6 +49,7 @@
 | Sangeetaaaa | 8 | 8 |
 | SemenTretyakov | 8 | 8 |
 | Seokky | 8 | 8 |
+| Shopticks | 8 | 8 |
 | Stevo-S | 8 | 8 |
 | TOomaAh | 8 | 8 |
 | Tonyblaise | 8 | 8 |
