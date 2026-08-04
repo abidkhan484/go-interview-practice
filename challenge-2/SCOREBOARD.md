@@ -100,6 +100,7 @@
 | es-codigo | 8 | 8 |
 | forever-free1 | 8 | 8 |
 | goholic | 8 | 8 |
+| hi-naresh | 8 | 8 |
 | himanshum9 | 8 | 8 |
 | hodgechung | 8 | 8 |
 | hudazaan | 8 | 8 |
