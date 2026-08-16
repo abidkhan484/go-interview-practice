@@ -85,6 +85,7 @@
 | Shopticks | 6 | 6 |
 | Spiridonov-KA | 6 | 6 |
 | Stevo-S | 6 | 6 |
+| Sylinsic | 6 | 6 |
 | TOomaAh | 6 | 6 |
 | Tonyblaise | 6 | 6 |
 | VFarsiyants | 6 | 6 |
