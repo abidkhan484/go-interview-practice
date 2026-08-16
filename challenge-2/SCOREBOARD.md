@@ -51,6 +51,7 @@
 | Seokky | 8 | 8 |
 | Shopticks | 8 | 8 |
 | Stevo-S | 8 | 8 |
+| Sylinsic | 8 | 8 |
 | TOomaAh | 8 | 8 |
 | Tonyblaise | 8 | 8 |
 | VFarsiyants | 8 | 8 |
