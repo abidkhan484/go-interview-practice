@@ -9,6 +9,7 @@
 | PolinaSvet | 36 | 36 |
 | PopovMarko | 36 | 36 |
 | YounesBouchbouk | 36 | 36 |
+| atplay90 | 36 | 36 |
 | awsl1110 | 36 | 36 |
 | imankhodadi | 36 | 36 |
 | kuzminprog | 36 | 36 |
