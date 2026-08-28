@@ -105,7 +105,7 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 | 7 | <img src="https://github.com/mick4711.png" width="24" height="24" style="border-radius: 50%;"><br/>**[mick4711](https://github.com/mick4711)** | **23**/30 | **76.7%** | Master | ✅✅✅✅✅✅✅✅✅✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅⬜⬜✅✅⬜⬜✅ |
 | 8 | <img src="https://github.com/Gandook.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Gandook](https://github.com/Gandook)** | **21**/30 | **70.0%** | Master | ✅⬜✅✅✅✅✅✅✅✅⬜⬜✅⬜⬜<br/>⬜✅✅✅⬜✅✅✅✅✅✅✅⬜⬜✅ |
 | 9 | <img src="https://github.com/Kosench.png" width="24" height="24" style="border-radius: 50%;"><br/>**[Kosench](https://github.com/Kosench)** | **21**/30 | **70.0%** | Master | ✅✅✅⬜✅✅✅✅✅✅✅✅✅✅✅<br/>✅✅✅✅✅✅✅⬜⬜⬜⬜⬜⬜⬜⬜ |
-| 10 | <img src="https://github.com/atplay90.png" width="24" height="24" style="border-radius: 50%;"><br/>**[atplay90](https://github.com/atplay90)** | **20**/30 | **66.7%** | Master | ✅✅✅✅✅✅✅⬜⬜✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅⬜⬜⬜✅⬜⬜✅ |
+| 10 | <img src="https://github.com/atplay90.png" width="24" height="24" style="border-radius: 50%;"><br/>**[atplay90](https://github.com/atplay90)** | **21**/30 | **70.0%** | Master | ✅✅✅✅✅✅✅✅⬜✅⬜⬜✅✅⬜<br/>✅✅✅✅✅✅✅✅⬜⬜⬜✅⬜⬜✅ |
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Our most accomplished Go developers, ranked by number of challenges completed:
 ### Challenge Progress Overview
 
 - **Total Challenges Available**: 30
-- **Active Developers**: 384
+- **Active Developers**: 385
 - **Most Challenges Solved**: 30 by PolinaSvet
 
 <!-- END_CLASSIC_LEADERBOARD -->
