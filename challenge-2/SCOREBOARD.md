@@ -180,6 +180,7 @@
 | xyersh | 8 | 8 |
 | ymonn | 8 | 8 |
 | yudha-Dlesmana | 8 | 8 |
+| zelie-delhotal | 8 | 8 |
 | zylbeyondlimits | 8 | 8 |
 | 0xQuietDev | 6 | 8 |
 | 0xtrooper | 6 | 8 |
