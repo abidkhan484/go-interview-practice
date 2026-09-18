@@ -1,6 +1,7 @@
 # Scoreboard for challenge-20
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| IvanDamNation | 13 | 13 |
 | JackDalberg | 13 | 13 |
 | JoQCorreia | 13 | 13 |
 | Kosench | 13 | 13 |
@@ -17,6 +18,7 @@
 | hvijaycse | 13 | 13 |
 | imankhodadi | 13 | 13 |
 | manik23 | 13 | 13 |
+| mick4711 | 13 | 13 |
 | muhammedkucukaslan | 13 | 13 |
 | mvsouza | 13 | 13 |
 | nzamulov | 13 | 13 |
@@ -24,4 +26,3 @@
 | onomica | 13 | 13 |
 | paulmarshall | 13 | 13 |
 | y1hao | 13 | 13 |
-| mick4711 | 12 | 13 |
