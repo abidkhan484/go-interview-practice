@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Cpoing | 15 | 15 |
+| IvanDamNation | 15 | 15 |
 | JackDalberg | 15 | 15 |
 | Kosench | 15 | 15 |
 | PolinaSvet | 15 | 15 |
