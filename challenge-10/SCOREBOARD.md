@@ -5,6 +5,7 @@
 | 110Aakif | 54 | 54 |
 | AkifhanIlgaz | 54 | 54 |
 | Ali-Fartoot | 54 | 54 |
+| AlieNoori | 54 | 54 |
 | BroQi | 54 | 54 |
 | Cpoing | 54 | 54 |
 | Gandook | 54 | 54 |

@@ -1,6 +1,7 @@
 # Scoreboard for challenge-9
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
+| AlieNoori | 12 | 12 |
 | Cpoing | 12 | 12 |
 | Gandook | 12 | 12 |
 | Kosench | 12 | 12 |

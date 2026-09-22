@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Ali-Fartoot | 7 | 7 |
+| AlieNoori | 7 | 7 |
 | Cpoing | 7 | 7 |
 | Gandook | 7 | 7 |
 | HeimaoLST | 7 | 7 |
