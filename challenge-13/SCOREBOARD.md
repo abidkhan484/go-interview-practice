@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Ali-Fartoot | 15 | 15 |
+| AlieNoori | 15 | 15 |
 | Cpoing | 15 | 15 |
 | DavidCao22 | 15 | 15 |
 | Gandook | 15 | 15 |
