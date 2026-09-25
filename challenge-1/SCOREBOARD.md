@@ -59,6 +59,7 @@
 | Kosench | 6 | 6 |
 | Lezhni | 6 | 6 |
 | Linqi-Qin | 6 | 6 |
+| LocTime1 | 6 | 6 |
 | LouisChen-TW | 6 | 6 |
 | MYK12397 | 6 | 6 |
 | Maidomax | 6 | 6 |
