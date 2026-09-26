@@ -2,6 +2,7 @@
 | Username   | Passed Tests | Total Tests |
 |------------|--------------|-------------|
 | Cpoing | 26 | 26 |
+| IvanDamNation | 26 | 26 |
 | Kosench | 26 | 26 |
 | PolinaSvet | 26 | 26 |
 | PopovMarko | 26 | 26 |
